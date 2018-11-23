@@ -1,0 +1,24 @@
+{
+  "name": "markdown-html-loader",
+  "version": "1.0.0",
+  "description": "Markdown file to html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "file",
+    "html",
+    "file",
+    "Conversion",
+    "webpack",
+    "loader",
+    "webpack-loader"
+  ],
+  "author": "lisheng",
+  "license": "ISC",
+  "dependencies": {
+    "showdown": "^1.9.0"
+  }
+}
