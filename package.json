@@ -1,6 +1,6 @@
 {
   "name": "markdown-html-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markdown file to html file",
   "main": "index.js",
   "scripts": {
